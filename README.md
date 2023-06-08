@@ -5,4 +5,4 @@ Procedimento 1 - Ordenando (JavaScript)
 <br>
 Procedimento 2 - Site de receitas (JavaScript e JSON)
 <br>
-Procedimento 3 - Página de usuários (  ) 
+Procedimento 3 - Página de usuários (JavaScript, VUE JS e JSON) 
